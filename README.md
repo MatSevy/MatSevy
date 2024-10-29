@@ -9,10 +9,10 @@
 --->
 # Notes
 
-## Useful links
-[Slovak cheatsheat for git](https://training.github.com/downloads/sk/github-git-cheat-sheet)
-[MATLAB gitignore](https://github.com/github/gitignore/blob/main/Global/MATLAB.gitignore)
-[LabVIEW gitignore](https://github.com/github/gitignore/blob/main/Global/MATLAB.gitignore)
+# Useful links
+- [Slovak cheatsheat for git](https://training.github.com/downloads/sk/github-git-cheat-sheet)
+- [gitignore file for MATLAB](https://github.com/github/gitignore/blob/main/Global/MATLAB.gitignore)
+- [gitignore file LabVIEW](https://github.com/github/gitignore/blob/main/Global/MATLAB.gitignore)
 <!---
 MatSevy/MatSevy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
